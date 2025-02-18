@@ -1,4 +1,5 @@
-## Hi there 👋
+Currently working on DevOps exercises and maybe some small project will be published here when (close to) finished.
+See also my [GitLab](https://gitlab.com/PontusC).
 
 <!--
 **PontusC/PontusC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
